@@ -35,8 +35,6 @@ Welcome to the "New York City Analysis" project, a MySQL-based exploration of da
 3. Execute SQL queries in the specified order as outlined in the `analysis.sql` file.
 
 ## Contributors 🤝
-- Your Name
-
-Feel free to explore the codebase and documentation to understand the step-by-step progression of this New York City Analysis project!
+- Prayag Upadhyay
 
 Happy Analyzing! 📈
