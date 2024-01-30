@@ -36,5 +36,7 @@ Welcome to the "Big Mart Sales Analysis" project, a hands-on exploration of sale
 
 ## Contributors 🤝
 - Prayag Upadhyay
+## Contact
+Mail - prayagupadhyay8890@gmail.com
 
 Happy Analyzing! 📈
