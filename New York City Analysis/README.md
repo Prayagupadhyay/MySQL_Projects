@@ -37,4 +37,7 @@ Welcome to the "New York City Analysis" project, a MySQL-based exploration of da
 ## Contributors 🤝
 - Prayag Upadhyay
 
+## Contact
+Mail - prayagupadhyay8890@gmail.com
+
 Happy Analyzing! 📈
